@@ -1,42 +1,42 @@
-# --------DATN_Customer--------
+# --------/DATN_Customer--------
 # OSX
-DATN_Customer/.DS_Store
+/DATN_Customer/.DS_Store
 
 # Xcode
-DATN_Customer/build/
-DATN_Customer/*.pbxuser
-DATN_Customer/!default.pbxuser
-DATN_Customer/*.mode1v3
-DATN_Customer/!default.mode1v3
-DATN_Customer/*.mode2v3
-DATN_Customer/!default.mode2v3
-DATN_Customer/*.perspectivev3
-DATN_Customer/!default.perspectivev3
-DATN_Customer/xcuserdata
-DATN_Customer/*.xccheckout
-DATN_Customer/*.moved-aside
-DATN_Customer/DerivedData
-DATN_Customer/*.hmap
-DATN_Customer/*.ipa
-DATN_Customer/*.xcuserstate
+/DATN_Customer/build/
+/DATN_Customer/*.pbxuser
+/DATN_Customer/!default.pbxuser
+/DATN_Customer/*.mode1v3
+/DATN_Customer/!default.mode1v3
+/DATN_Customer/*.mode2v3
+/DATN_Customer/!default.mode2v3
+/DATN_Customer/*.perspectivev3
+/DATN_Customer/!default.perspectivev3
+/DATN_Customer/xcuserdata
+/DATN_Customer/*.xccheckout
+/DATN_Customer/*.moved-aside
+/DATN_Customer/DerivedData
+/DATN_Customer/*.hmap
+/DATN_Customer/*.ipa
+/DATN_Customer/*.xcuserstate
 
 # Android/IntelliJ
-DATN_Customer/build/
-DATN_Customer/.idea
-DATN_Customer/.gradle
-DATN_Customer/local.properties
-DATN_Customer/*.iml
+/DATN_Customer/build/
+/DATN_Customer/.idea
+/DATN_Customer/.gradle
+/DATN_Customer/local.properties
+/DATN_Customer/*.iml
 
 # node.js
-DATN_Customer/node_modules/
-DATN_Customer/npm-debug.log
-DATN_Customer/yarn-error.log
+/DATN_Customer/node_modules/
+/DATN_Customer/npm-debug.log
+/DATN_Customer/yarn-error.log
 
 # BUCK
-DATN_Customer/buck-out/
-DATN_Customer/.buckd/
-DATN_Customer/*.keystore
-DATN_Customer/!debug.keystore
+/DATN_Customer/buck-out/
+/DATN_Customer/.buckd/
+/DATN_Customer/*.keystore
+/DATN_Customer/!debug.keystore
 
 # fastlane
 #
@@ -45,60 +45,60 @@ DATN_Customer/!debug.keystore
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/
 
-DATN_Customer/*/fastlane/report.xml
-DATN_Customer/*/fastlane/Preview.html
-DATN_Customer/*/fastlane/screenshots
+/DATN_Customer/*/fastlane/report.xml
+/DATN_Customer/*/fastlane/Preview.html
+/DATN_Customer/*/fastlane/screenshots
 
 # Bundle artifact
-DATN_Customer/*.jsbundle
+/DATN_Customer/*.jsbundle
 
 # CocoaPods
-DATN_Customer/ios/Pods/
+/DATN_Customer/ios/Pods/
 
 
-# --------DATN_Shipper--------
+# --------/DATN_Shipper--------
 
 # OSX
-DATN_Shipper/.DS_Store
+/DATN_Shipper/.DS_Store
 
 # Xcode
-DATN_Shipper/build/
-DATN_Shipper/*.pbxuser
-DATN_Shipper/!default.pbxuser
-DATN_Shipper/*.mode1v3
-DATN_Shipper/!default.mode1v3
-DATN_Shipper/*.mode2v3
-DATN_Shipper/!default.mode2v3
-DATN_Shipper/*.perspectivev3
-DATN_Shipper/!default.perspectivev3
-DATN_Shipper/xcuserdata
-DATN_Shipper/*.xccheckout
+/DATN_Shipper/build/
+/DATN_Shipper/*.pbxuser
+/DATN_Shipper/!default.pbxuser
+/DATN_Shipper/*.mode1v3
+/DATN_Shipper/!default.mode1v3
+/DATN_Shipper/*.mode2v3
+/DATN_Shipper/!default.mode2v3
+/DATN_Shipper/*.perspectivev3
+/DATN_Shipper/!default.perspectivev3
+/DATN_Shipper/xcuserdata
+/DATN_Shipper/*.xccheckout
 
-DATN_Shipper/C*.moved-aside
-DATN_Shipper/DerivedData
-DATN_Shipper/*.hmap
-DATN_Shipper/*.ipa
-DATN_Shipper/*.xcuserstate
+/DATN_Shipper/C*.moved-aside
+/DATN_Shipper/DerivedData
+/DATN_Shipper/*.hmap
+/DATN_Shipper/*.ipa
+/DATN_Shipper/*.xcuserstate
 
 # Android/IntelliJ
 #
-DATN_Shipper/build/
-DATN_Shipper/.idea
-DATN_Shipper/.gradle
-DATN_Shipper/local.properties
-DATN_Shipper/*.iml
+/DATN_Shipper/build/
+/DATN_Shipper/.idea
+/DATN_Shipper/.gradle
+/DATN_Shipper/local.properties
+/DATN_Shipper/*.iml
 
 # node.js
 #
-DATN_Shipper/node_modules/
-DATN_Shipper/npm-debug.log
-DATN_Shipper/yarn-error.log
+/DATN_Shipper/node_modules/
+/DATN_Shipper/npm-debug.log
+/DATN_Shipper/yarn-error.log
 
 # BUCK
-DATN_Shipper/buck-out/
-DATN_Shipper/.buckd/
-DATN_Shipper*/.keystore
-DATN_Shipper/!debug.keystore
+/DATN_Shipper/buck-out/
+/DATN_Shipper/.buckd/
+/DATN_Shipper*/.keystore
+/DATN_Shipper/!debug.keystore
 
 # fastlane
 #
@@ -107,14 +107,14 @@ DATN_Shipper/!debug.keystore
 # For more information about the recommended setup visit:
 # https://docs.fastlane.tools/best-practices/source-control/
 
-DATN_Shipper/*/fastlane/report.xml
-DATN_Shipper/*/fastlane/Preview.html
-DATN_Shipper/*/fastlane/screenshots
+/DATN_Shipper/*/fastlane/report.xml
+/DATN_Shipper/*/fastlane/Preview.html
+/DATN_Shipper/*/fastlane/screenshots
 
 # Bundle artifact
-DATN_Shipper/*.jsbundle
+/DATN_Shipper/*.jsbundle
 
 # CocoaPods
-DATN_Shipper/ios/Pods/
-DATN_Shipper/android/app/release
+/DATN_Shipper/ios/Pods/
+/DATN_Shipper/android/app/release
 

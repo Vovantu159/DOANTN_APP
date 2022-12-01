@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "628530084952",
+    "firebase_url": "https://datn2022-d02a8-default-rtdb.firebaseio.com",
+    "project_id": "datn2022-d02a8",
+    "storage_bucket": "datn2022-d02a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628530084952:android:99fb62c596959766505e2d",
+        "android_client_info": {
+          "package_name": "com.actvn.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628530084952-q0ec106jrua4vrfq9634u6ipstlem04a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQpW9JYptkXAz7e2Ihruw1oUPVls-qtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628530084952-q0ec106jrua4vrfq9634u6ipstlem04a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628530084952:android:e791363589fd489b505e2d",
+        "android_client_info": {
+          "package_name": "com.actvn.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628530084952-q0ec106jrua4vrfq9634u6ipstlem04a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQpW9JYptkXAz7e2Ihruw1oUPVls-qtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628530084952-q0ec106jrua4vrfq9634u6ipstlem04a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
